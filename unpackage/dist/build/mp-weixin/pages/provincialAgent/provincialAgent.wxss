@@ -1,0 +1,1 @@
+.bg_top_img{width:100%;height:500rpx}.bg_btn_img{width:92%;height:320rpx;margin:0 32rpx}.bg_bow_img{width:92%;height:300rpx;margin:0 30rpx}.sqbtn{background-color:#e9b47a;border:1px solid #e9b47a;border-radius:100px;width:90%;color:#212121;margin-top:42rpx;margin-bottom:42rpx}.sqbtn:after{border:1px solid #e9b47a}

@@ -1,0 +1,114 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+page, page, page {
+  background-color: #f8f8f8 !important;
+}
+.titleBox {
+  color: #FFFFFF;
+  height: 100px;
+  padding: 20rpx 160rpx;
+}
+.icon_bucket {
+  height: 40PX;
+  width: 40PX;
+}
+.grace-bg-white {
+  background-color: #fff;
+}
+.grace-bg-white .grace-flex {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+            justify-content: space-between;
+    /* 横向中间自动空间 */
+    -webkit-align-content: space-between;
+            align-content: space-between;
+    /* 竖向中间自动空间 */
+    -webkit-box-align: auto;
+    -webkit-align-items: auto;
+            align-items: auto;
+    font-size: 28rpx;
+}
+.grace-bg-white .grace-flex .grace-columns {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1;
+              flex: 1;
+}
+.grace-bg-white .grace-flex .grace-columns .grace-ellipsis {
+        font-size: 26rpx;
+}
+.grace-bg-white .grace-flex .info {
+      /* width: 460rpx; */
+      -webkit-box-flex: 4;
+      -webkit-flex: 4;
+              flex: 4;
+}
+.fon28 text {
+  font-size: 24rpx;
+}
+.fon32 {
+  font-size: 32rpx;
+}
+.lineHe {
+  line-height: 45rpx;
+}
+.mt_20 {
+  margin-top: -60rpx;
+}
+.action-box {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 100rpx;
+  position: relative;
+  padding-right: 30rpx;
+}
+.action-box .btns {
+    border-radius: 100rpx;
+    width: 90%;
+    color: #212121;
+    margin-top: 46rpx;
+    margin-bottom: 46rpx;
+    border: 1px solid #E9B47A;
+    background-color: #E9B47A;
+}
+.action-box .btns :after {
+      border: 1px solid #E9B47A !important;
+}
+.action-box .btns1 {
+    width: 160rpx;
+    height: 60rpx;
+    margin: 0;
+    margin-left: 24rpx;
+    padding: 0;
+    text-align: center;
+    line-height: 60rpx;
+    font-size: 24rpx !important;
+    color: #303133;
+    background: #fff;
+    border-radius: 100px;
+}
+.action-box .btns1:after {
+      border-radius: 100px;
+}
+.action-box .btns1.recom {
+      background: #fff;
+      color: #E9B47A;
+}
+.action-box .btns1.recom:after {
+        border: 1px solid #E9B47A;
+}
+

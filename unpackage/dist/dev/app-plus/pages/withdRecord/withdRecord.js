@@ -1,0 +1,2 @@
+setCssToHead(["body{ background-color: #ffffff; }\n.",[1],"listItem{ margin: ",[0,20],"; padding-bottom: ",[0,20],"; padding-top:",[0,20],"; border-bottom: 1px solid #EFEFEF; }\n.",[1],"loading{text-align:center; line-height:80px;}\n",],undefined,{path:"./pages/withdRecord/withdRecord.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/withdRecord/withdRecord.wxml') } }));

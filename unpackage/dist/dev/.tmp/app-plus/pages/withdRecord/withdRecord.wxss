@@ -1,0 +1,12 @@
+
+page{
+	background-color: #ffffff;
+}
+.listItem{
+	margin: 20rpx;
+	padding-bottom: 20rpx;
+	padding-top:20rpx;
+	border-bottom: 1px solid #EFEFEF;
+}
+.loading{text-align:center; line-height:80px;}
+

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "九九学堂",
+  "navigationStyle": "default",
+  "navigationBarBackgroundColor": "#201F1F",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 100,
+  "usingComponents": {}
+}

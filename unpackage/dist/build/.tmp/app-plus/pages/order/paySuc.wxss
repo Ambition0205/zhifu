@@ -1,0 +1,15 @@
+
+.fhbtn {
+  background-color: #E9B47A;
+  border: 1px solid #E9B47A;
+  border-radius: 100px;
+  width: 35%;
+  color: #212121;
+  margin-top: 32rpx;
+  margin-bottom: 32rpx;
+  font-size: 28rpx;
+}
+.fhbtn:after {
+    border: 1px solid #E9B47A;
+}
+

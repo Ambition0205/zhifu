@@ -1,0 +1,87 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+page {
+  background-color: #FAFAFA;
+}
+.popup_item {
+  background-color: #fff;
+  width: 95%;
+  height: 114rpx;
+  line-height: 114rpx;
+  margin: 22rpx;
+  border-radius: 20rpx;
+  box-shadow: 0 0 40px #EBEBEB;
+  position: relative;
+}
+.popup_item .input_item {
+  height: 84rpx;
+  line-height: 84rpx;
+  font-size: 28rpx;
+  border-radius: 100rpx;
+  background-color: #F6F6F6;
+  position: absolute;
+  width: 497rpx;
+  top: 15rpx;
+  right: 32rpx;
+  padding-left: 32rpx;
+}
+.txBtn {
+  border: 1px solid #EAB880;
+  width: 203rpx;
+  height: 102rpx;
+  line-height: 102rpx;
+  border-radius: 20rpx;
+  text-align: center;
+  color: #282828;
+  font-size: 16px;
+  float: left;
+  margin-right: 25rpx;
+  margin-bottom: 32rpx;
+}
+.active {
+  color: #282828;
+  border: 1px solid #FBD9AE;
+  background-color: #FBD9AE;
+}
+.qrtx {
+  margin: 42rpx 22rpx;
+  border: 1px solid #FCB55A;
+  background-color: #FCB55A;
+  border-radius: 100rpx;
+  height: 87rpx;
+  line-height: 87rpx;
+}
+.qrtx:after {
+  border: 1px solid #FCB55A;
+}
+.itemList {
+  background-color: #fff;
+  width: 95%;
+  padding: 20rpx;
+  padding-top: 30rpx;
+  margin: 22rpx;
+  border-radius: 20rpx;
+  box-shadow: 0 0 40px #EBEBEB;
+}
+.itemList .zhifu_image {
+  height: 40rpx;
+}
+.itemList .section {
+  width: 39rpx;
+  height: 39rpx;
+  position: absolute;
+  right: 10rpx;
+  top: 10rpx;
+}
+.zhifu_zf {
+  margin-bottom: 10rpx;
+  position: relative;
+  bottom: 10rpx;
+  width: 100%;
+}
+

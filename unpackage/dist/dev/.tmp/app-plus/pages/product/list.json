@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "产品商城",
+  "navigationBarBackgroundColor": "#201F1F",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

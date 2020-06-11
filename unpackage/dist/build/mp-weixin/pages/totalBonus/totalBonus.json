@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "利润总额",
+  "navigationBarBackgroundColor": "#201F1F",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "t-table": "/components/t-table/t-table",
+    "t-th": "/components/t-table/t-th",
+    "t-tr": "/components/t-table/t-tr",
+    "t-td": "/components/t-table/t-td"
+  }
+}

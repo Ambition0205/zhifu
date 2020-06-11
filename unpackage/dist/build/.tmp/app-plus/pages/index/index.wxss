@@ -1,0 +1,114 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+page {
+  background: #EFEFEF;
+}
+.w112_h112 {
+  width: 88rpx;
+  height: 88rpx;
+  margin-left: 46rpx;
+}
+.float_l {
+  float: left;
+}
+.bg_top_img {
+  width: 100%;
+  height: 450rpx;
+}
+.container {
+  /* padding-top: 115px; */
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  background: #F9F9F9;
+}
+.wrapper {
+  position: relative;
+  z-index: 90;
+  background: #F9F9F9;
+  padding-bottom: 40rpx;
+}
+.confirm-btn {
+  width: 630rpx;
+  height: 90rpx;
+  line-height: 90rpx;
+  border-radius: 50px;
+  margin-top: 236rpx;
+  background: #F2B373;
+  color: #303030;
+  border: 1px solid #F2B373;
+  font-size: 32rpx;
+}
+.confirm-btn:after {
+    border-radius: 100px;
+    border: 1px solid #F2B373;
+}
+.uni-form-item {
+  height: 224rpx;
+  line-height: 224rpx;
+  background-color: #fff;
+  margin: 30rpx 20rpx;
+}
+.uni-form-item .uni-input {
+    font-size: 30rpx;
+    padding: 7px 0;
+}
+.column-with-btn {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.column-with-btn button {
+    font-size: 24rpx;
+    margin: 0;
+    width: 180rpx;
+    text-align: center;
+}
+.column-with-btn button:after {
+      border: none;
+}
+.column-with-btn button.active {
+      background-color: #b49950;
+      color: #fff;
+}
+.img-captcha {
+  width: 150rpx;
+  height: 60rpx;
+}
+button[type="primary"] {
+  background-color: #b49950;
+  border-radius: 0;
+  font-size: 34rpx;
+  margin-top: 60rpx;
+}
+.links {
+  text-align: center;
+  margin-top: 40rpx;
+  font-size: 26rpx;
+  color: #999;
+}
+.links view {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 10rpx;
+}
+.links .link-highlight {
+    color: #b49950;
+}
+

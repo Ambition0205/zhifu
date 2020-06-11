@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "提现记录",
+  "navigationBarBackgroundColor": "#201F1F",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 100,
+  "usingComponents": {}
+}

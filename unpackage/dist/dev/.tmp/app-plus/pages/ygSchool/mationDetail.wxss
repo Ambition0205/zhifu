@@ -1,0 +1,17 @@
+
+.Skeleton{
+	background-color: #fff;
+	margin:10rpx 30rpx;
+}
+.detailCon{
+	margin-top: 20rpx;
+	font-size: 28rpx;
+	line-height: 50rpx;
+	font-weight: 500;
+}
+.create_time{
+	margin-top: 20rpx;
+	font-size: 26rpx;
+	color:#999;
+}	
+

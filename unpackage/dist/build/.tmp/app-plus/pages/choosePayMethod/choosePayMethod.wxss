@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+page {
+  background-color: #FAFAFA;
+}
+.itemList {
+  background-color: #fff;
+  width: 95%;
+  padding: 40rpx;
+  margin: 22rpx;
+  border-radius: 20rpx;
+  box-shadow: 0 0 40px #EBEBEB;
+}
+.itemList .zhifu_image {
+    width: 84rpx;
+    height: 84rpx;
+    margin-left: 10rpx;
+    margin-top: 30rpx;
+    position: relative;
+    top: 10rpx;
+}
+.itemList .section {
+    width: 39rpx;
+    height: 39rpx;
+    position: absolute;
+    right: 10rpx;
+    top: 60rpx;
+}
+.zhifu_zf {
+  margin-bottom: 10rpx;
+  position: relative;
+  bottom: 10rpx;
+  width: 610rpx;
+}
+.zcbtn {
+  border-radius: 100px;
+  height: 90rpx;
+  line-height: 90rpx;
+  margin: 0 75rpx;
+  margin-top: 50rpx;
+  background-color: #FDBB69;
+  border: 1px solid #FDBB69;
+}
+.zcbtn:after {
+    border: 1px solid #FDBB69;
+}
+

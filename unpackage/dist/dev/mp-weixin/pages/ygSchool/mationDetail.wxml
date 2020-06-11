@@ -1,0 +1,1 @@
+<view class="Skeleton"><view class="title_con">{{listDetail.title}}</view><view class="create_time">{{'发布时间：'+$root.m0+''}}</view><view class="con_img"><image style="width:100%;margin-top:20rpx;height:auto;" src="{{urlImg+listDetail.img}}" mode="widthFix"></image></view><view class="detailCon"><rich-text nodes="{{listDetail.content}}"></rich-text></view></view>

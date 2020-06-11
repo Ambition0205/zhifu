@@ -1,0 +1,122 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+.content.data-v-dcd08126 {
+  padding: 0rpx 50rpx 100rpx;
+}
+.ml64.data-v-dcd08126 {
+  margin-left: 32rpx;
+}
+.bg_top_img.data-v-dcd08126 {
+  width: 100%;
+}
+.font_color_or.data-v-dcd08126 {
+  color: #F8C693;
+}
+.font-b.data-v-dcd08126 {
+  font-size: 52rpx;
+}
+.ml20.data-v-dcd08126 {
+  margin-left: 40rpx;
+}
+.mt30.data-v-dcd08126 {
+  margin-top: 60rpx;
+}
+.float_r.data-v-dcd08126 {
+  float: right;
+}
+.float_l.data-v-dcd08126 {
+  float: left;
+}
+.zcbtn.data-v-dcd08126 {
+  margin-top: 119rpx;
+  border-radius: 100px;
+  height: 90rpx;
+  line-height: 90rpx;
+  background-color: #F2B373;
+  border: 1px solid #F8C693;
+}
+.zcbtn.data-v-dcd08126:after {
+    border: 1px solid #F8C693;
+}
+.uni-form-item.data-v-dcd08126 {
+  height: 128rpx;
+  line-height: 128rpx;
+  border-bottom: 1px solid #e3e3e3;
+}
+.uni-form-item .uni-input.data-v-dcd08126 {
+    font-size: 30rpx;
+    padding: 7px 0;
+}
+.column-with-btn.data-v-dcd08126 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.column-with-btn button.data-v-dcd08126 {
+    font-size: 24rpx;
+    margin: 0;
+    width: 180rpx;
+    text-align: center;
+}
+.column-with-btn button.data-v-dcd08126:after {
+      border: none;
+}
+.column-with-btn button.active.data-v-dcd08126 {
+      background-color: #F8C693;
+      color: #333;
+}
+.img-captcha.data-v-dcd08126 {
+  width: 150rpx;
+  height: 60rpx;
+}
+button[type="primary"].data-v-dcd08126 {
+  background-color: #b49950;
+  border-radius: 0;
+  font-size: 34rpx;
+  margin-top: 60rpx;
+}
+.links.data-v-dcd08126 {
+  text-align: center;
+  margin-top: 40rpx;
+  font-size: 26rpx;
+  color: #999;
+}
+.links view.data-v-dcd08126 {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 10rpx;
+}
+.links .link-highlight.data-v-dcd08126 {
+    color: #b49950;
+}
+.h40.data-v-dcd08126 {
+  height: 80rpx;
+}
+.phClass.data-v-dcd08126 {
+  color: #999999;
+}
+.sendCodes.data-v-dcd08126 {
+  background: #E8B47A;
+  color: #1E1D1D;
+  border-radius: 100px;
+  height: 66rpx;
+  line-height: 66rpx;
+  font-size: 28rpx;
+  width: 210rpx;
+}
+

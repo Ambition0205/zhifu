@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "创建订单",
+  "navigationBarBackgroundColor": "#201F1F",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-number-box": "/components/uni-number-box/uni-number-box"
+  }
+}

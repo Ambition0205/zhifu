@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"Skeleton{ background-color: #fff; margin:",[0,10]," ",[0,30],"; }\n.",[1],"detailCon{ margin-top: ",[0,20],"; font-size: ",[0,28],"; line-height: ",[0,50],"; font-weight: 500; }\n.",[1],"create_time{ margin-top: ",[0,20],"; font-size: ",[0,26],"; color:#999; }\n",],undefined,{path:"./pages/ygSchool/mationDetail.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/ygSchool/mationDetail.wxml') } }));
